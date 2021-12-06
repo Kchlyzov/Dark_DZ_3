@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework №3</string>
+    <string name="enter_your_e_mail_address">Введите ваш e mail адрес!</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="auto_club_honda">   Auto Club Honda</string>
+    <string name="registration_on_the_website">Регистрация</string>
+    <string name="button_to_come_in">Войти</string>
+    <string name="button_registration">Регистрация </string>
+</resources>
